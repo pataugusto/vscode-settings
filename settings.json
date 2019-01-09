@@ -1,0 +1,24 @@
+{
+    // Autosave code
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+
+    // Wrap long lines
+    "editor.wordWrap": "on",
+
+    // The number of spaces a tab is equal to. This setting is overridden
+    // based on the file contents when `editor.detectIndentation` is true.
+    "editor.tabSize": 4,
+
+    // Insert spaces when pressing Tab. This setting is overriden
+    // based on the file contents when `editor.detectIndentation` is true.
+    "editor.insertSpaces": false,
+
+    // "Prettier" extension is needed for this
+    "prettier.tabWidth": 4,
+    "workbench.colorTheme": "Monokai Pro",
+    "workbench.iconTheme": "material-icon-theme",
+
+
+
+}

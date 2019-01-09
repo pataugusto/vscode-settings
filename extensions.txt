@@ -1,0 +1,14 @@
+aaron-bond.better-comments
+alefragnani.project-manager
+azemoh.one-monokai
+CoenraadS.bracket-pair-colorizer
+donjayamanne.githistory
+DotJoshJohnson.xml
+eamodio.gitlens
+esbenp.prettier-vscode
+formulahendry.auto-close-tag
+ionutvmi.path-autocomplete
+joelday.docthis
+monokai.theme-monokai-pro-vscode
+ms-python.python
+PKief.material-icon-theme
